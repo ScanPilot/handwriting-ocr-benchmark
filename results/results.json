@@ -1,0 +1,2380 @@
+{
+  "pages": 183,
+  "metric_notes": "word recall/precision/F1, order ignored; WER/CER ordered, secondary (see README)",
+  "systems": {
+    "ScanPilot": {
+      "group": "AI model",
+      "runs": [
+        "scanpilot",
+        "scanpilot-run2",
+        "scanpilot-run3"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.9315,
+            "min": 0.9285,
+            "max": 0.9334
+          },
+          "precision": {
+            "mean": 0.9003,
+            "min": 0.8981,
+            "max": 0.9033
+          },
+          "f1": {
+            "mean": 0.9156,
+            "min": 0.9154,
+            "max": 0.9158
+          },
+          "wer": {
+            "mean": 0.2859,
+            "min": 0.2811,
+            "max": 0.291
+          },
+          "cer": {
+            "mean": 0.2198,
+            "min": 0.2183,
+            "max": 0.2212
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.9285,
+            "min": 0.9281,
+            "max": 0.9291
+          },
+          "precision": {
+            "mean": 0.8902,
+            "min": 0.8873,
+            "max": 0.8932
+          },
+          "f1": {
+            "mean": 0.9089,
+            "min": 0.9073,
+            "max": 0.9108
+          },
+          "wer": {
+            "mean": 0.3148,
+            "min": 0.3061,
+            "max": 0.3239
+          },
+          "cer": {
+            "mean": 0.2396,
+            "min": 0.2369,
+            "max": 0.2439
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.9449,
+            "min": 0.9255,
+            "max": 0.9558
+          },
+          "precision": {
+            "mean": 0.9474,
+            "min": 0.9427,
+            "max": 0.9515
+          },
+          "f1": {
+            "mean": 0.946,
+            "min": 0.9383,
+            "max": 0.9519
+          },
+          "wer": {
+            "mean": 0.1573,
+            "min": 0.1448,
+            "max": 0.1705
+          },
+          "cer": {
+            "mean": 0.1334,
+            "min": 0.1218,
+            "max": 0.1461
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.9481,
+            "min": 0.9403,
+            "max": 0.9521
+          },
+          "precision": {
+            "mean": 0.9422,
+            "min": 0.9405,
+            "max": 0.9439
+          },
+          "f1": {
+            "mean": 0.9451,
+            "min": 0.9421,
+            "max": 0.9471
+          },
+          "wer": {
+            "mean": 0.1655,
+            "min": 0.162,
+            "max": 0.1694
+          },
+          "cer": {
+            "mean": 0.1233,
+            "min": 0.1197,
+            "max": 0.1294
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.9305,
+            "min": 0.9258,
+            "max": 0.9335
+          },
+          "precision": {
+            "mean": 0.9192,
+            "min": 0.9176,
+            "max": 0.9221
+          },
+          "f1": {
+            "mean": 0.9248,
+            "min": 0.9217,
+            "max": 0.9278
+          },
+          "wer": {
+            "mean": 0.1393,
+            "min": 0.1358,
+            "max": 0.1442
+          },
+          "cer": {
+            "mean": 0.0612,
+            "min": 0.0584,
+            "max": 0.0628
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.9511,
+            "min": 0.9506,
+            "max": 0.9517
+          },
+          "precision": {
+            "mean": 0.9163,
+            "min": 0.9149,
+            "max": 0.9171
+          },
+          "f1": {
+            "mean": 0.9334,
+            "min": 0.9324,
+            "max": 0.934
+          },
+          "wer": {
+            "mean": 0.2855,
+            "min": 0.2809,
+            "max": 0.2916
+          },
+          "cer": {
+            "mean": 0.2217,
+            "min": 0.2158,
+            "max": 0.2282
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.9082,
+            "min": 0.9073,
+            "max": 0.9093
+          },
+          "precision": {
+            "mean": 0.8973,
+            "min": 0.8936,
+            "max": 0.9017
+          },
+          "f1": {
+            "mean": 0.9027,
+            "min": 0.9007,
+            "max": 0.9055
+          },
+          "wer": {
+            "mean": 0.4232,
+            "min": 0.4054,
+            "max": 0.4425
+          },
+          "cer": {
+            "mean": 0.3766,
+            "min": 0.3701,
+            "max": 0.3892
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.9406,
+            "min": 0.9334,
+            "max": 0.9445
+          },
+          "precision": {
+            "mean": 0.8892,
+            "min": 0.8853,
+            "max": 0.8937
+          },
+          "f1": {
+            "mean": 0.9142,
+            "min": 0.9131,
+            "max": 0.9155
+          },
+          "wer": {
+            "mean": 0.233,
+            "min": 0.2288,
+            "max": 0.2355
+          },
+          "cer": {
+            "mean": 0.1609,
+            "min": 0.1579,
+            "max": 0.1656
+          }
+        }
+      },
+      "missed_words_notes": 0.0715,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "scanpilot": 1,
+        "scanpilot-run2": 1,
+        "scanpilot-run3": 1
+      }
+    },
+    "Azure Document Intelligence (Read)": {
+      "group": "Cloud OCR",
+      "runs": [
+        "azure"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.9008,
+            "min": 0.9008,
+            "max": 0.9008
+          },
+          "precision": {
+            "mean": 0.8612,
+            "min": 0.8612,
+            "max": 0.8612
+          },
+          "f1": {
+            "mean": 0.8805,
+            "min": 0.8805,
+            "max": 0.8805
+          },
+          "wer": {
+            "mean": 0.3401,
+            "min": 0.3401,
+            "max": 0.3401
+          },
+          "cer": {
+            "mean": 0.2332,
+            "min": 0.2332,
+            "max": 0.2332
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.8867,
+            "min": 0.8867,
+            "max": 0.8867
+          },
+          "precision": {
+            "mean": 0.8466,
+            "min": 0.8466,
+            "max": 0.8466
+          },
+          "f1": {
+            "mean": 0.8662,
+            "min": 0.8662,
+            "max": 0.8662
+          },
+          "wer": {
+            "mean": 0.3734,
+            "min": 0.3734,
+            "max": 0.3734
+          },
+          "cer": {
+            "mean": 0.2492,
+            "min": 0.2492,
+            "max": 0.2492
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.963,
+            "min": 0.963,
+            "max": 0.963
+          },
+          "precision": {
+            "mean": 0.9268,
+            "min": 0.9268,
+            "max": 0.9268
+          },
+          "f1": {
+            "mean": 0.9445,
+            "min": 0.9445,
+            "max": 0.9445
+          },
+          "wer": {
+            "mean": 0.1926,
+            "min": 0.1926,
+            "max": 0.1926
+          },
+          "cer": {
+            "mean": 0.1631,
+            "min": 0.1631,
+            "max": 0.1631
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.9367,
+            "min": 0.9367,
+            "max": 0.9367
+          },
+          "precision": {
+            "mean": 0.9211,
+            "min": 0.9211,
+            "max": 0.9211
+          },
+          "f1": {
+            "mean": 0.9288,
+            "min": 0.9288,
+            "max": 0.9288
+          },
+          "wer": {
+            "mean": 0.2097,
+            "min": 0.2097,
+            "max": 0.2097
+          },
+          "cer": {
+            "mean": 0.1443,
+            "min": 0.1443,
+            "max": 0.1443
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.8824,
+            "min": 0.8824,
+            "max": 0.8824
+          },
+          "precision": {
+            "mean": 0.8724,
+            "min": 0.8724,
+            "max": 0.8724
+          },
+          "f1": {
+            "mean": 0.8774,
+            "min": 0.8774,
+            "max": 0.8774
+          },
+          "wer": {
+            "mean": 0.254,
+            "min": 0.254,
+            "max": 0.254
+          },
+          "cer": {
+            "mean": 0.1264,
+            "min": 0.1264,
+            "max": 0.1264
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.9125,
+            "min": 0.9125,
+            "max": 0.9125
+          },
+          "precision": {
+            "mean": 0.8509,
+            "min": 0.8509,
+            "max": 0.8509
+          },
+          "f1": {
+            "mean": 0.8806,
+            "min": 0.8806,
+            "max": 0.8806
+          },
+          "wer": {
+            "mean": 0.29,
+            "min": 0.29,
+            "max": 0.29
+          },
+          "cer": {
+            "mean": 0.1912,
+            "min": 0.1912,
+            "max": 0.1912
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.8712,
+            "min": 0.8712,
+            "max": 0.8712
+          },
+          "precision": {
+            "mean": 0.8468,
+            "min": 0.8468,
+            "max": 0.8468
+          },
+          "f1": {
+            "mean": 0.8589,
+            "min": 0.8589,
+            "max": 0.8589
+          },
+          "wer": {
+            "mean": 0.4997,
+            "min": 0.4997,
+            "max": 0.4997
+          },
+          "cer": {
+            "mean": 0.3838,
+            "min": 0.3838,
+            "max": 0.3838
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.9241,
+            "min": 0.9241,
+            "max": 0.9241
+          },
+          "precision": {
+            "mean": 0.8725,
+            "min": 0.8725,
+            "max": 0.8725
+          },
+          "f1": {
+            "mean": 0.8976,
+            "min": 0.8976,
+            "max": 0.8976
+          },
+          "wer": {
+            "mean": 0.272,
+            "min": 0.272,
+            "max": 0.272
+          },
+          "cer": {
+            "mean": 0.1823,
+            "min": 0.1823,
+            "max": 0.1823
+          }
+        }
+      },
+      "missed_words_notes": 0.1133,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "azure": 0
+      }
+    },
+    "Google Cloud Vision (handwriting hint)": {
+      "group": "Cloud OCR",
+      "runs": [
+        "vision-hw"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.8833,
+            "min": 0.8833,
+            "max": 0.8833
+          },
+          "precision": {
+            "mean": 0.8424,
+            "min": 0.8424,
+            "max": 0.8424
+          },
+          "f1": {
+            "mean": 0.8624,
+            "min": 0.8624,
+            "max": 0.8624
+          },
+          "wer": {
+            "mean": 0.3738,
+            "min": 0.3738,
+            "max": 0.3738
+          },
+          "cer": {
+            "mean": 0.2665,
+            "min": 0.2665,
+            "max": 0.2665
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.8665,
+            "min": 0.8665,
+            "max": 0.8665
+          },
+          "precision": {
+            "mean": 0.8242,
+            "min": 0.8242,
+            "max": 0.8242
+          },
+          "f1": {
+            "mean": 0.8448,
+            "min": 0.8448,
+            "max": 0.8448
+          },
+          "wer": {
+            "mean": 0.3899,
+            "min": 0.3899,
+            "max": 0.3899
+          },
+          "cer": {
+            "mean": 0.2711,
+            "min": 0.2711,
+            "max": 0.2711
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.9579,
+            "min": 0.9579,
+            "max": 0.9579
+          },
+          "precision": {
+            "mean": 0.9245,
+            "min": 0.9245,
+            "max": 0.9245
+          },
+          "f1": {
+            "mean": 0.9409,
+            "min": 0.9409,
+            "max": 0.9409
+          },
+          "wer": {
+            "mean": 0.3025,
+            "min": 0.3025,
+            "max": 0.3025
+          },
+          "cer": {
+            "mean": 0.2465,
+            "min": 0.2465,
+            "max": 0.2465
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.9284,
+            "min": 0.9284,
+            "max": 0.9284
+          },
+          "precision": {
+            "mean": 0.9093,
+            "min": 0.9093,
+            "max": 0.9093
+          },
+          "f1": {
+            "mean": 0.9188,
+            "min": 0.9188,
+            "max": 0.9188
+          },
+          "wer": {
+            "mean": 0.2654,
+            "min": 0.2654,
+            "max": 0.2654
+          },
+          "cer": {
+            "mean": 0.1903,
+            "min": 0.1903,
+            "max": 0.1903
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.8628,
+            "min": 0.8628,
+            "max": 0.8628
+          },
+          "precision": {
+            "mean": 0.8327,
+            "min": 0.8327,
+            "max": 0.8327
+          },
+          "f1": {
+            "mean": 0.8475,
+            "min": 0.8475,
+            "max": 0.8475
+          },
+          "wer": {
+            "mean": 0.2694,
+            "min": 0.2694,
+            "max": 0.2694
+          },
+          "cer": {
+            "mean": 0.1385,
+            "min": 0.1385,
+            "max": 0.1385
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.8829,
+            "min": 0.8829,
+            "max": 0.8829
+          },
+          "precision": {
+            "mean": 0.8332,
+            "min": 0.8332,
+            "max": 0.8332
+          },
+          "f1": {
+            "mean": 0.8574,
+            "min": 0.8574,
+            "max": 0.8574
+          },
+          "wer": {
+            "mean": 0.3443,
+            "min": 0.3443,
+            "max": 0.3443
+          },
+          "cer": {
+            "mean": 0.2336,
+            "min": 0.2336,
+            "max": 0.2336
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.8642,
+            "min": 0.8642,
+            "max": 0.8642
+          },
+          "precision": {
+            "mean": 0.8331,
+            "min": 0.8331,
+            "max": 0.8331
+          },
+          "f1": {
+            "mean": 0.8484,
+            "min": 0.8484,
+            "max": 0.8484
+          },
+          "wer": {
+            "mean": 0.4971,
+            "min": 0.4971,
+            "max": 0.4971
+          },
+          "cer": {
+            "mean": 0.3958,
+            "min": 0.3958,
+            "max": 0.3958
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.9048,
+            "min": 0.9048,
+            "max": 0.9048
+          },
+          "precision": {
+            "mean": 0.8566,
+            "min": 0.8566,
+            "max": 0.8566
+          },
+          "f1": {
+            "mean": 0.88,
+            "min": 0.88,
+            "max": 0.88
+          },
+          "wer": {
+            "mean": 0.3302,
+            "min": 0.3302,
+            "max": 0.3302
+          },
+          "cer": {
+            "mean": 0.2338,
+            "min": 0.2338,
+            "max": 0.2338
+          }
+        }
+      },
+      "missed_words_notes": 0.1335,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "vision-hw": 0
+      }
+    },
+    "Amazon Textract": {
+      "group": "Cloud OCR",
+      "runs": [
+        "textract"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.883,
+            "min": 0.883,
+            "max": 0.883
+          },
+          "precision": {
+            "mean": 0.8385,
+            "min": 0.8385,
+            "max": 0.8385
+          },
+          "f1": {
+            "mean": 0.8602,
+            "min": 0.8602,
+            "max": 0.8602
+          },
+          "wer": {
+            "mean": 0.3686,
+            "min": 0.3686,
+            "max": 0.3686
+          },
+          "cer": {
+            "mean": 0.2544,
+            "min": 0.2544,
+            "max": 0.2544
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.8651,
+            "min": 0.8651,
+            "max": 0.8651
+          },
+          "precision": {
+            "mean": 0.818,
+            "min": 0.818,
+            "max": 0.818
+          },
+          "f1": {
+            "mean": 0.8409,
+            "min": 0.8409,
+            "max": 0.8409
+          },
+          "wer": {
+            "mean": 0.413,
+            "min": 0.413,
+            "max": 0.413
+          },
+          "cer": {
+            "mean": 0.2799,
+            "min": 0.2799,
+            "max": 0.2799
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.9625,
+            "min": 0.9625,
+            "max": 0.9625
+          },
+          "precision": {
+            "mean": 0.9318,
+            "min": 0.9318,
+            "max": 0.9318
+          },
+          "f1": {
+            "mean": 0.9469,
+            "min": 0.9469,
+            "max": 0.9469
+          },
+          "wer": {
+            "mean": 0.1721,
+            "min": 0.1721,
+            "max": 0.1721
+          },
+          "cer": {
+            "mean": 0.1428,
+            "min": 0.1428,
+            "max": 0.1428
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.9199,
+            "min": 0.9199,
+            "max": 0.9199
+          },
+          "precision": {
+            "mean": 0.8957,
+            "min": 0.8957,
+            "max": 0.8957
+          },
+          "f1": {
+            "mean": 0.9076,
+            "min": 0.9076,
+            "max": 0.9076
+          },
+          "wer": {
+            "mean": 0.2294,
+            "min": 0.2294,
+            "max": 0.2294
+          },
+          "cer": {
+            "mean": 0.153,
+            "min": 0.153,
+            "max": 0.153
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.8691,
+            "min": 0.8691,
+            "max": 0.8691
+          },
+          "precision": {
+            "mean": 0.8411,
+            "min": 0.8411,
+            "max": 0.8411
+          },
+          "f1": {
+            "mean": 0.8549,
+            "min": 0.8549,
+            "max": 0.8549
+          },
+          "wer": {
+            "mean": 0.2673,
+            "min": 0.2673,
+            "max": 0.2673
+          },
+          "cer": {
+            "mean": 0.1305,
+            "min": 0.1305,
+            "max": 0.1305
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.8657,
+            "min": 0.8657,
+            "max": 0.8657
+          },
+          "precision": {
+            "mean": 0.8204,
+            "min": 0.8204,
+            "max": 0.8204
+          },
+          "f1": {
+            "mean": 0.8424,
+            "min": 0.8424,
+            "max": 0.8424
+          },
+          "wer": {
+            "mean": 0.4028,
+            "min": 0.4028,
+            "max": 0.4028
+          },
+          "cer": {
+            "mean": 0.2758,
+            "min": 0.2758,
+            "max": 0.2758
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.8597,
+            "min": 0.8597,
+            "max": 0.8597
+          },
+          "precision": {
+            "mean": 0.8216,
+            "min": 0.8216,
+            "max": 0.8216
+          },
+          "f1": {
+            "mean": 0.8402,
+            "min": 0.8402,
+            "max": 0.8402
+          },
+          "wer": {
+            "mean": 0.5236,
+            "min": 0.5236,
+            "max": 0.5236
+          },
+          "cer": {
+            "mean": 0.407,
+            "min": 0.407,
+            "max": 0.407
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.913,
+            "min": 0.913,
+            "max": 0.913
+          },
+          "precision": {
+            "mean": 0.8583,
+            "min": 0.8583,
+            "max": 0.8583
+          },
+          "f1": {
+            "mean": 0.8848,
+            "min": 0.8848,
+            "max": 0.8848
+          },
+          "wer": {
+            "mean": 0.2716,
+            "min": 0.2716,
+            "max": 0.2716
+          },
+          "cer": {
+            "mean": 0.1771,
+            "min": 0.1771,
+            "max": 0.1771
+          }
+        }
+      },
+      "missed_words_notes": 0.1349,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "textract": 0
+      }
+    },
+    "TrOCR large handwritten (PaddleOCR detector)": {
+      "group": "Open-source OCR",
+      "runs": [
+        "trocr"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.676,
+            "min": 0.676,
+            "max": 0.676
+          },
+          "precision": {
+            "mean": 0.6643,
+            "min": 0.6643,
+            "max": 0.6643
+          },
+          "f1": {
+            "mean": 0.6701,
+            "min": 0.6701,
+            "max": 0.6701
+          },
+          "wer": {
+            "mean": 0.6287,
+            "min": 0.6287,
+            "max": 0.6287
+          },
+          "cer": {
+            "mean": 0.4328,
+            "min": 0.4328,
+            "max": 0.4328
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.6547,
+            "min": 0.6547,
+            "max": 0.6547
+          },
+          "precision": {
+            "mean": 0.6323,
+            "min": 0.6323,
+            "max": 0.6323
+          },
+          "f1": {
+            "mean": 0.6433,
+            "min": 0.6433,
+            "max": 0.6433
+          },
+          "wer": {
+            "mean": 0.6826,
+            "min": 0.6826,
+            "max": 0.6826
+          },
+          "cer": {
+            "mean": 0.4669,
+            "min": 0.4669,
+            "max": 0.4669
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.7704,
+            "min": 0.7704,
+            "max": 0.7704
+          },
+          "precision": {
+            "mean": 0.821,
+            "min": 0.821,
+            "max": 0.821
+          },
+          "f1": {
+            "mean": 0.7949,
+            "min": 0.7949,
+            "max": 0.7949
+          },
+          "wer": {
+            "mean": 0.3898,
+            "min": 0.3898,
+            "max": 0.3898
+          },
+          "cer": {
+            "mean": 0.2841,
+            "min": 0.2841,
+            "max": 0.2841
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.7245,
+            "min": 0.7245,
+            "max": 0.7245
+          },
+          "precision": {
+            "mean": 0.7182,
+            "min": 0.7182,
+            "max": 0.7182
+          },
+          "f1": {
+            "mean": 0.7213,
+            "min": 0.7213,
+            "max": 0.7213
+          },
+          "wer": {
+            "mean": 0.5409,
+            "min": 0.5409,
+            "max": 0.5409
+          },
+          "cer": {
+            "mean": 0.3586,
+            "min": 0.3586,
+            "max": 0.3586
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.6228,
+            "min": 0.6228,
+            "max": 0.6228
+          },
+          "precision": {
+            "mean": 0.6257,
+            "min": 0.6257,
+            "max": 0.6257
+          },
+          "f1": {
+            "mean": 0.6243,
+            "min": 0.6243,
+            "max": 0.6243
+          },
+          "wer": {
+            "mean": 0.6326,
+            "min": 0.6326,
+            "max": 0.6326
+          },
+          "cer": {
+            "mean": 0.4069,
+            "min": 0.4069,
+            "max": 0.4069
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.6708,
+            "min": 0.6708,
+            "max": 0.6708
+          },
+          "precision": {
+            "mean": 0.6941,
+            "min": 0.6941,
+            "max": 0.6941
+          },
+          "f1": {
+            "mean": 0.6822,
+            "min": 0.6822,
+            "max": 0.6822
+          },
+          "wer": {
+            "mean": 0.5494,
+            "min": 0.5494,
+            "max": 0.5494
+          },
+          "cer": {
+            "mean": 0.403,
+            "min": 0.403,
+            "max": 0.403
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.631,
+            "min": 0.631,
+            "max": 0.631
+          },
+          "precision": {
+            "mean": 0.5806,
+            "min": 0.5806,
+            "max": 0.5806
+          },
+          "f1": {
+            "mean": 0.6048,
+            "min": 0.6048,
+            "max": 0.6048
+          },
+          "wer": {
+            "mean": 0.8796,
+            "min": 0.8796,
+            "max": 0.8796
+          },
+          "cer": {
+            "mean": 0.6196,
+            "min": 0.6196,
+            "max": 0.6196
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.7304,
+            "min": 0.7304,
+            "max": 0.7304
+          },
+          "precision": {
+            "mean": 0.7332,
+            "min": 0.7332,
+            "max": 0.7332
+          },
+          "f1": {
+            "mean": 0.7318,
+            "min": 0.7318,
+            "max": 0.7318
+          },
+          "wer": {
+            "mean": 0.4742,
+            "min": 0.4742,
+            "max": 0.4742
+          },
+          "cer": {
+            "mean": 0.3223,
+            "min": 0.3223,
+            "max": 0.3223
+          }
+        }
+      },
+      "missed_words_notes": 0.3453,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "trocr": 0
+      }
+    },
+    "PaddleOCR 3.4.1 (PP-OCRv5)": {
+      "group": "Open-source OCR",
+      "runs": [
+        "paddleocr"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.5199,
+            "min": 0.5199,
+            "max": 0.5199
+          },
+          "precision": {
+            "mean": 0.5705,
+            "min": 0.5705,
+            "max": 0.5705
+          },
+          "f1": {
+            "mean": 0.544,
+            "min": 0.544,
+            "max": 0.544
+          },
+          "wer": {
+            "mean": 0.6829,
+            "min": 0.6829,
+            "max": 0.6829
+          },
+          "cer": {
+            "mean": 0.4194,
+            "min": 0.4194,
+            "max": 0.4194
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.4693,
+            "min": 0.4693,
+            "max": 0.4693
+          },
+          "precision": {
+            "mean": 0.5109,
+            "min": 0.5109,
+            "max": 0.5109
+          },
+          "f1": {
+            "mean": 0.4892,
+            "min": 0.4892,
+            "max": 0.4892
+          },
+          "wer": {
+            "mean": 0.7478,
+            "min": 0.7478,
+            "max": 0.7478
+          },
+          "cer": {
+            "mean": 0.4609,
+            "min": 0.4609,
+            "max": 0.4609
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.7447,
+            "min": 0.7447,
+            "max": 0.7447
+          },
+          "precision": {
+            "mean": 0.846,
+            "min": 0.846,
+            "max": 0.846
+          },
+          "f1": {
+            "mean": 0.7921,
+            "min": 0.7921,
+            "max": 0.7921
+          },
+          "wer": {
+            "mean": 0.395,
+            "min": 0.395,
+            "max": 0.395
+          },
+          "cer": {
+            "mean": 0.2381,
+            "min": 0.2381,
+            "max": 0.2381
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.6199,
+            "min": 0.6199,
+            "max": 0.6199
+          },
+          "precision": {
+            "mean": 0.6852,
+            "min": 0.6852,
+            "max": 0.6852
+          },
+          "f1": {
+            "mean": 0.6509,
+            "min": 0.6509,
+            "max": 0.6509
+          },
+          "wer": {
+            "mean": 0.5576,
+            "min": 0.5576,
+            "max": 0.5576
+          },
+          "cer": {
+            "mean": 0.3299,
+            "min": 0.3299,
+            "max": 0.3299
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.4409,
+            "min": 0.4409,
+            "max": 0.4409
+          },
+          "precision": {
+            "mean": 0.5157,
+            "min": 0.5157,
+            "max": 0.5157
+          },
+          "f1": {
+            "mean": 0.4753,
+            "min": 0.4753,
+            "max": 0.4753
+          },
+          "wer": {
+            "mean": 0.704,
+            "min": 0.704,
+            "max": 0.704
+          },
+          "cer": {
+            "mean": 0.4076,
+            "min": 0.4076,
+            "max": 0.4076
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.4699,
+            "min": 0.4699,
+            "max": 0.4699
+          },
+          "precision": {
+            "mean": 0.5082,
+            "min": 0.5082,
+            "max": 0.5082
+          },
+          "f1": {
+            "mean": 0.4883,
+            "min": 0.4883,
+            "max": 0.4883
+          },
+          "wer": {
+            "mean": 0.6762,
+            "min": 0.6762,
+            "max": 0.6762
+          },
+          "cer": {
+            "mean": 0.3943,
+            "min": 0.3943,
+            "max": 0.3943
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.4444,
+            "min": 0.4444,
+            "max": 0.4444
+          },
+          "precision": {
+            "mean": 0.4785,
+            "min": 0.4785,
+            "max": 0.4785
+          },
+          "f1": {
+            "mean": 0.4608,
+            "min": 0.4608,
+            "max": 0.4608
+          },
+          "wer": {
+            "mean": 0.8738,
+            "min": 0.8738,
+            "max": 0.8738
+          },
+          "cer": {
+            "mean": 0.6064,
+            "min": 0.6064,
+            "max": 0.6064
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.6263,
+            "min": 0.6263,
+            "max": 0.6263
+          },
+          "precision": {
+            "mean": 0.688,
+            "min": 0.688,
+            "max": 0.688
+          },
+          "f1": {
+            "mean": 0.6557,
+            "min": 0.6557,
+            "max": 0.6557
+          },
+          "wer": {
+            "mean": 0.535,
+            "min": 0.535,
+            "max": 0.535
+          },
+          "cer": {
+            "mean": 0.3015,
+            "min": 0.3015,
+            "max": 0.3015
+          }
+        }
+      },
+      "missed_words_notes": 0.5307,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "paddleocr": 0
+      }
+    },
+    "Tesseract 5.5.1": {
+      "group": "Open-source OCR",
+      "runs": [
+        "tesseract"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.2015,
+            "min": 0.2015,
+            "max": 0.2015
+          },
+          "precision": {
+            "mean": 0.3092,
+            "min": 0.3092,
+            "max": 0.3092
+          },
+          "f1": {
+            "mean": 0.244,
+            "min": 0.244,
+            "max": 0.244
+          },
+          "wer": {
+            "mean": 0.927,
+            "min": 0.927,
+            "max": 0.927
+          },
+          "cer": {
+            "mean": 0.7067,
+            "min": 0.7067,
+            "max": 0.7067
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.1055,
+            "min": 0.1055,
+            "max": 0.1055
+          },
+          "precision": {
+            "mean": 0.1738,
+            "min": 0.1738,
+            "max": 0.1738
+          },
+          "f1": {
+            "mean": 0.1313,
+            "min": 0.1313,
+            "max": 0.1313
+          },
+          "wer": {
+            "mean": 1.0116,
+            "min": 1.0116,
+            "max": 1.0116
+          },
+          "cer": {
+            "mean": 0.7789,
+            "min": 0.7789,
+            "max": 0.7789
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.6271,
+            "min": 0.6271,
+            "max": 0.6271
+          },
+          "precision": {
+            "mean": 0.7497,
+            "min": 0.7497,
+            "max": 0.7497
+          },
+          "f1": {
+            "mean": 0.6829,
+            "min": 0.6829,
+            "max": 0.6829
+          },
+          "wer": {
+            "mean": 0.5521,
+            "min": 0.5521,
+            "max": 0.5521
+          },
+          "cer": {
+            "mean": 0.3911,
+            "min": 0.3911,
+            "max": 0.3911
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.3086,
+            "min": 0.3086,
+            "max": 0.3086
+          },
+          "precision": {
+            "mean": 0.4307,
+            "min": 0.4307,
+            "max": 0.4307
+          },
+          "f1": {
+            "mean": 0.3596,
+            "min": 0.3596,
+            "max": 0.3596
+          },
+          "wer": {
+            "mean": 0.8367,
+            "min": 0.8367,
+            "max": 0.8367
+          },
+          "cer": {
+            "mean": 0.6337,
+            "min": 0.6337,
+            "max": 0.6337
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.0742,
+            "min": 0.0742,
+            "max": 0.0742
+          },
+          "precision": {
+            "mean": 0.1306,
+            "min": 0.1306,
+            "max": 0.1306
+          },
+          "f1": {
+            "mean": 0.0946,
+            "min": 0.0946,
+            "max": 0.0946
+          },
+          "wer": {
+            "mean": 1.0511,
+            "min": 1.0511,
+            "max": 1.0511
+          },
+          "cer": {
+            "mean": 0.9102,
+            "min": 0.9102,
+            "max": 0.9102
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.1472,
+            "min": 0.1472,
+            "max": 0.1472
+          },
+          "precision": {
+            "mean": 0.1978,
+            "min": 0.1978,
+            "max": 0.1978
+          },
+          "f1": {
+            "mean": 0.1688,
+            "min": 0.1688,
+            "max": 0.1688
+          },
+          "wer": {
+            "mean": 0.9603,
+            "min": 0.9603,
+            "max": 0.9603
+          },
+          "cer": {
+            "mean": 0.6653,
+            "min": 0.6653,
+            "max": 0.6653
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.1013,
+            "min": 0.1013,
+            "max": 0.1013
+          },
+          "precision": {
+            "mean": 0.1558,
+            "min": 0.1558,
+            "max": 0.1558
+          },
+          "f1": {
+            "mean": 0.1227,
+            "min": 0.1227,
+            "max": 0.1227
+          },
+          "wer": {
+            "mean": 1.0524,
+            "min": 1.0524,
+            "max": 1.0524
+          },
+          "cer": {
+            "mean": 0.7981,
+            "min": 0.7981,
+            "max": 0.7981
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.3449,
+            "min": 0.3449,
+            "max": 0.3449
+          },
+          "precision": {
+            "mean": 0.5426,
+            "min": 0.5426,
+            "max": 0.5426
+          },
+          "f1": {
+            "mean": 0.4217,
+            "min": 0.4217,
+            "max": 0.4217
+          },
+          "wer": {
+            "mean": 0.7753,
+            "min": 0.7753,
+            "max": 0.7753
+          },
+          "cer": {
+            "mean": 0.5914,
+            "min": 0.5914,
+            "max": 0.5914
+          }
+        }
+      },
+      "missed_words_notes": 0.8945,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "tesseract": 30
+      }
+    },
+    "EasyOCR 1.7.2": {
+      "group": "Open-source OCR",
+      "runs": [
+        "easyocr"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.2319,
+            "min": 0.2319,
+            "max": 0.2319
+          },
+          "precision": {
+            "mean": 0.2295,
+            "min": 0.2295,
+            "max": 0.2295
+          },
+          "f1": {
+            "mean": 0.2307,
+            "min": 0.2307,
+            "max": 0.2307
+          },
+          "wer": {
+            "mean": 0.9871,
+            "min": 0.9871,
+            "max": 0.9871
+          },
+          "cer": {
+            "mean": 0.6094,
+            "min": 0.6094,
+            "max": 0.6094
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.1522,
+            "min": 0.1522,
+            "max": 0.1522
+          },
+          "precision": {
+            "mean": 0.1489,
+            "min": 0.1489,
+            "max": 0.1489
+          },
+          "f1": {
+            "mean": 0.1505,
+            "min": 0.1505,
+            "max": 0.1505
+          },
+          "wer": {
+            "mean": 1.0873,
+            "min": 1.0873,
+            "max": 1.0873
+          },
+          "cer": {
+            "mean": 0.6746,
+            "min": 0.6746,
+            "max": 0.6746
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.5855,
+            "min": 0.5855,
+            "max": 0.5855
+          },
+          "precision": {
+            "mean": 0.6356,
+            "min": 0.6356,
+            "max": 0.6356
+          },
+          "f1": {
+            "mean": 0.6095,
+            "min": 0.6095,
+            "max": 0.6095
+          },
+          "wer": {
+            "mean": 0.5424,
+            "min": 0.5424,
+            "max": 0.5424
+          },
+          "cer": {
+            "mean": 0.3246,
+            "min": 0.3246,
+            "max": 0.3246
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.327,
+            "min": 0.327,
+            "max": 0.327
+          },
+          "precision": {
+            "mean": 0.333,
+            "min": 0.333,
+            "max": 0.333
+          },
+          "f1": {
+            "mean": 0.33,
+            "min": 0.33,
+            "max": 0.33
+          },
+          "wer": {
+            "mean": 0.8469,
+            "min": 0.8469,
+            "max": 0.8469
+          },
+          "cer": {
+            "mean": 0.5048,
+            "min": 0.5048,
+            "max": 0.5048
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.1309,
+            "min": 0.1309,
+            "max": 0.1309
+          },
+          "precision": {
+            "mean": 0.1207,
+            "min": 0.1207,
+            "max": 0.1207
+          },
+          "f1": {
+            "mean": 0.1256,
+            "min": 0.1256,
+            "max": 0.1256
+          },
+          "wer": {
+            "mean": 1.1064,
+            "min": 1.1064,
+            "max": 1.1064
+          },
+          "cer": {
+            "mean": 0.6338,
+            "min": 0.6338,
+            "max": 0.6338
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.1267,
+            "min": 0.1267,
+            "max": 0.1267
+          },
+          "precision": {
+            "mean": 0.1297,
+            "min": 0.1297,
+            "max": 0.1297
+          },
+          "f1": {
+            "mean": 0.1282,
+            "min": 0.1282,
+            "max": 0.1282
+          },
+          "wer": {
+            "mean": 1.0231,
+            "min": 1.0231,
+            "max": 1.0231
+          },
+          "cer": {
+            "mean": 0.6316,
+            "min": 0.6316,
+            "max": 0.6316
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.1754,
+            "min": 0.1754,
+            "max": 0.1754
+          },
+          "precision": {
+            "mean": 0.1737,
+            "min": 0.1737,
+            "max": 0.1737
+          },
+          "f1": {
+            "mean": 0.1746,
+            "min": 0.1746,
+            "max": 0.1746
+          },
+          "wer": {
+            "mean": 1.1441,
+            "min": 1.1441,
+            "max": 1.1441
+          },
+          "cer": {
+            "mean": 0.7663,
+            "min": 0.7663,
+            "max": 0.7663
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.3562,
+            "min": 0.3562,
+            "max": 0.3562
+          },
+          "precision": {
+            "mean": 0.3604,
+            "min": 0.3604,
+            "max": 0.3604
+          },
+          "f1": {
+            "mean": 0.3583,
+            "min": 0.3583,
+            "max": 0.3583
+          },
+          "wer": {
+            "mean": 0.8118,
+            "min": 0.8118,
+            "max": 0.8118
+          },
+          "cer": {
+            "mean": 0.4778,
+            "min": 0.4778,
+            "max": 0.4778
+          }
+        }
+      },
+      "missed_words_notes": 0.8478,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "easyocr": 0
+      }
+    }
+  },
+  "other_settings": {
+    "Google Cloud Vision (no hint)": {
+      "runs": [
+        "vision"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.8751,
+            "min": 0.8751,
+            "max": 0.8751
+          },
+          "precision": {
+            "mean": 0.8256,
+            "min": 0.8256,
+            "max": 0.8256
+          },
+          "f1": {
+            "mean": 0.8496,
+            "min": 0.8496,
+            "max": 0.8496
+          },
+          "wer": {
+            "mean": 0.4373,
+            "min": 0.4373,
+            "max": 0.4373
+          },
+          "cer": {
+            "mean": 0.3156,
+            "min": 0.3156,
+            "max": 0.3156
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.8564,
+            "min": 0.8564,
+            "max": 0.8564
+          },
+          "precision": {
+            "mean": 0.8045,
+            "min": 0.8045,
+            "max": 0.8045
+          },
+          "f1": {
+            "mean": 0.8296,
+            "min": 0.8296,
+            "max": 0.8296
+          },
+          "wer": {
+            "mean": 0.4651,
+            "min": 0.4651,
+            "max": 0.4651
+          },
+          "cer": {
+            "mean": 0.33,
+            "min": 0.33,
+            "max": 0.33
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.9579,
+            "min": 0.9579,
+            "max": 0.9579
+          },
+          "precision": {
+            "mean": 0.9218,
+            "min": 0.9218,
+            "max": 0.9218
+          },
+          "f1": {
+            "mean": 0.9395,
+            "min": 0.9395,
+            "max": 0.9395
+          },
+          "wer": {
+            "mean": 0.3143,
+            "min": 0.3143,
+            "max": 0.3143
+          },
+          "cer": {
+            "mean": 0.2531,
+            "min": 0.2531,
+            "max": 0.2531
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.9223,
+            "min": 0.9223,
+            "max": 0.9223
+          },
+          "precision": {
+            "mean": 0.8961,
+            "min": 0.8961,
+            "max": 0.8961
+          },
+          "f1": {
+            "mean": 0.909,
+            "min": 0.909,
+            "max": 0.909
+          },
+          "wer": {
+            "mean": 0.3073,
+            "min": 0.3073,
+            "max": 0.3073
+          },
+          "cer": {
+            "mean": 0.2212,
+            "min": 0.2212,
+            "max": 0.2212
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.8523,
+            "min": 0.8523,
+            "max": 0.8523
+          },
+          "precision": {
+            "mean": 0.8074,
+            "min": 0.8074,
+            "max": 0.8074
+          },
+          "f1": {
+            "mean": 0.8293,
+            "min": 0.8293,
+            "max": 0.8293
+          },
+          "wer": {
+            "mean": 0.3674,
+            "min": 0.3674,
+            "max": 0.3674
+          },
+          "cer": {
+            "mean": 0.2235,
+            "min": 0.2235,
+            "max": 0.2235
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.8722,
+            "min": 0.8722,
+            "max": 0.8722
+          },
+          "precision": {
+            "mean": 0.8197,
+            "min": 0.8197,
+            "max": 0.8197
+          },
+          "f1": {
+            "mean": 0.8452,
+            "min": 0.8452,
+            "max": 0.8452
+          },
+          "wer": {
+            "mean": 0.4023,
+            "min": 0.4023,
+            "max": 0.4023
+          },
+          "cer": {
+            "mean": 0.2758,
+            "min": 0.2758,
+            "max": 0.2758
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.8476,
+            "min": 0.8476,
+            "max": 0.8476
+          },
+          "precision": {
+            "mean": 0.8048,
+            "min": 0.8048,
+            "max": 0.8048
+          },
+          "f1": {
+            "mean": 0.8256,
+            "min": 0.8256,
+            "max": 0.8256
+          },
+          "wer": {
+            "mean": 0.5898,
+            "min": 0.5898,
+            "max": 0.5898
+          },
+          "cer": {
+            "mean": 0.4743,
+            "min": 0.4743,
+            "max": 0.4743
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.9048,
+            "min": 0.9048,
+            "max": 0.9048
+          },
+          "precision": {
+            "mean": 0.8499,
+            "min": 0.8499,
+            "max": 0.8499
+          },
+          "f1": {
+            "mean": 0.8765,
+            "min": 0.8765,
+            "max": 0.8765
+          },
+          "wer": {
+            "mean": 0.3624,
+            "min": 0.3624,
+            "max": 0.3624
+          },
+          "cer": {
+            "mean": 0.2528,
+            "min": 0.2528,
+            "max": 0.2528
+          }
+        }
+      },
+      "missed_words_notes": 0.1436,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "vision": 0
+      }
+    },
+    "Tesseract 5.5.1 (--psm 11)": {
+      "runs": [
+        "tesseract-psm11"
+      ],
+      "groups": {
+        "All pages": {
+          "pages": 183,
+          "recall": {
+            "mean": 0.2435,
+            "min": 0.2435,
+            "max": 0.2435
+          },
+          "precision": {
+            "mean": 0.1654,
+            "min": 0.1654,
+            "max": 0.1654
+          },
+          "f1": {
+            "mean": 0.197,
+            "min": 0.197,
+            "max": 0.197
+          },
+          "wer": {
+            "mean": 1.4609,
+            "min": 1.4609,
+            "max": 1.4609
+          },
+          "cer": {
+            "mean": 0.9141,
+            "min": 0.9141,
+            "max": 0.9141
+          }
+        },
+        "Handwritten notes (GNHK)": {
+          "pages": 172,
+          "recall": {
+            "mean": 0.1438,
+            "min": 0.1438,
+            "max": 0.1438
+          },
+          "precision": {
+            "mean": 0.0911,
+            "min": 0.0911,
+            "max": 0.0911
+          },
+          "f1": {
+            "mean": 0.1115,
+            "min": 0.1115,
+            "max": 0.1115
+          },
+          "wer": {
+            "mean": 1.6834,
+            "min": 1.6834,
+            "max": 1.6834
+          },
+          "cer": {
+            "mean": 1.054,
+            "min": 1.054,
+            "max": 1.054
+          }
+        },
+        "Forms with handwriting (OmniAI)": {
+          "pages": 11,
+          "recall": {
+            "mean": 0.6857,
+            "min": 0.6857,
+            "max": 0.6857
+          },
+          "precision": {
+            "mean": 0.7167,
+            "min": 0.7167,
+            "max": 0.7167
+          },
+          "f1": {
+            "mean": 0.7009,
+            "min": 0.7009,
+            "max": 0.7009
+          },
+          "wer": {
+            "mean": 0.4741,
+            "min": 0.4741,
+            "max": 0.4741
+          },
+          "cer": {
+            "mean": 0.3028,
+            "min": 0.3028,
+            "max": 0.3028
+          }
+        },
+        "Clean pages": {
+          "pages": 101,
+          "recall": {
+            "mean": 0.363,
+            "min": 0.363,
+            "max": 0.363
+          },
+          "precision": {
+            "mean": 0.2222,
+            "min": 0.2222,
+            "max": 0.2222
+          },
+          "f1": {
+            "mean": 0.2756,
+            "min": 0.2756,
+            "max": 0.2756
+          },
+          "wer": {
+            "mean": 1.461,
+            "min": 1.461,
+            "max": 1.461
+          },
+          "cer": {
+            "mean": 0.8953,
+            "min": 0.8953,
+            "max": 0.8953
+          }
+        },
+        "Region AF": {
+          "pages": 29,
+          "recall": {
+            "mean": 0.1344,
+            "min": 0.1344,
+            "max": 0.1344
+          },
+          "precision": {
+            "mean": 0.058,
+            "min": 0.058,
+            "max": 0.058
+          },
+          "f1": {
+            "mean": 0.0811,
+            "min": 0.0811,
+            "max": 0.0811
+          },
+          "wer": {
+            "mean": 2.3933,
+            "min": 2.3933,
+            "max": 2.3933
+          },
+          "cer": {
+            "mean": 1.6249,
+            "min": 1.6249,
+            "max": 1.6249
+          }
+        },
+        "Region AS": {
+          "pages": 25,
+          "recall": {
+            "mean": 0.1842,
+            "min": 0.1842,
+            "max": 0.1842
+          },
+          "precision": {
+            "mean": 0.1562,
+            "min": 0.1562,
+            "max": 0.1562
+          },
+          "f1": {
+            "mean": 0.1691,
+            "min": 0.1691,
+            "max": 0.1691
+          },
+          "wer": {
+            "mean": 1.1821,
+            "min": 1.1821,
+            "max": 1.1821
+          },
+          "cer": {
+            "mean": 0.6441,
+            "min": 0.6441,
+            "max": 0.6441
+          }
+        },
+        "Region EU": {
+          "pages": 82,
+          "recall": {
+            "mean": 0.1374,
+            "min": 0.1374,
+            "max": 0.1374
+          },
+          "precision": {
+            "mean": 0.0797,
+            "min": 0.0797,
+            "max": 0.0797
+          },
+          "f1": {
+            "mean": 0.1009,
+            "min": 0.1009,
+            "max": 0.1009
+          },
+          "wer": {
+            "mean": 1.8623,
+            "min": 1.8623,
+            "max": 1.8623
+          },
+          "cer": {
+            "mean": 1.1428,
+            "min": 1.1428,
+            "max": 1.1428
+          }
+        },
+        "Region NA": {
+          "pages": 47,
+          "recall": {
+            "mean": 0.3874,
+            "min": 0.3874,
+            "max": 0.3874
+          },
+          "precision": {
+            "mean": 0.3515,
+            "min": 0.3515,
+            "max": 0.3515
+          },
+          "f1": {
+            "mean": 0.3686,
+            "min": 0.3686,
+            "max": 0.3686
+          },
+          "wer": {
+            "mean": 0.9635,
+            "min": 0.9635,
+            "max": 0.9635
+          },
+          "cer": {
+            "mean": 0.6376,
+            "min": 0.6376,
+            "max": 0.6376
+          }
+        }
+      },
+      "missed_words_notes": 0.8562,
+      "pages_scored": 183,
+      "empty_outputs": {
+        "tesseract-psm11": 2
+      }
+    }
+  }
+}

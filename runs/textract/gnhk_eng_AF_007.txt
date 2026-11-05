@@ -1,0 +1,20 @@
+A,B,F,G G and H G and It
+A
+Explain the necessity for acquiring good note taking and
+note making techniques
+B
+list the me thods of note taking of note making
+f identify good reading. habits
+G
+Explain the different method of reading
+H
+use the different method of reading explaired in G
+a
+Write an Algorithm and draw the flowehast determining
+the average of 3 given numbers a,b,c,
+Ste P 1: Start
+& 2: Declare Variables a, b, C
+5
+3: Ave In (atbtc) /3
+4: Ave 10:5play Ave
+5: stop

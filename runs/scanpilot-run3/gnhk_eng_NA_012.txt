@@ -1,0 +1,9 @@
+compile android run time
+-> classes.dex Java bytecode Dalvic / ART
+-> manifest.xml configuration
+-> res source file registered compile
+-> Resources.arsc precompiled resources XML
+-> assets big files
+-> Lib .so arm 32/64 x86 32/64
+-> meta-info apk signing doc
+Unity c# sharp Unity c#

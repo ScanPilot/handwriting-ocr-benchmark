@@ -1,0 +1,24 @@
+HMM Training .
+CD Initiatization .
+( IS " IS 2 , - " IEN ) .
+A. samples ( Save ) as divide into N initial states .
+ceventys .
+B. Calculate Drug length of each state
+( lar. lez , ... low ) .
+c. Calculate initial transitive probb
+oper , per , - pond
+pair to
+d. Calculate M.6 " for each state
+( Mor. - You ( For , - DON ) .
+Loops ( " 2 , " *
+x-mk .
+vs .
+s-mkts .
+6ic .
+skir .
+decide if to move x to another state
+B. Charlotte Anglesyth of each state ( kit , her , ... how )
+c. Calculate transition fordb ( per. Pts.pts )
+D. Calculate M.O for each state ( per-new ( semi-owed
+if boundaries don't change as converge !
+wrote that each state must have 3 1 point !

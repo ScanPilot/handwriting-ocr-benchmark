@@ -1,0 +1,72 @@
+Number and Percent of studerts with Positive Clinical Findings by
+Sex (1972)
+Physical Examina tions wee given toa total of los males and loo Females
+Male
+Female
+Physical Finding
+Number
+Percent
+Number
+Percent
+LIPS
+0
+0
+2
+2.00
+Pallor of mucosa-
+GUMS
+3
+2.86
+2
+2.00
+Marginal redness or swelling---
+FACE AND NECK
+Thyroid enlarged:
+GO_---
+2.
+1.90
+.8
+8.00
+GI__--
+7
+6.67
+7
+7.00
+GⅡ
+1
+0.95
+4
+4.00
+TONGUE
+Filiform papillary atrophy---
+7
+6.67
+3
+3:00
+Funsiform papillary hyper dophy-
+1
+0.95
+0
+0
+0
+0
+1
+1.00
+Geographic------
+1
+0.95
+0
+0
+TEETH
+5
+4.76
+3
+Cavities in Four or more teeth.
+3.00
+SKIN
+0
+0
+2
+Follicular hype kea tasis
+2.00
+Source:https://www.industrydocuments.ucsf.edu/docs/ppjb0228

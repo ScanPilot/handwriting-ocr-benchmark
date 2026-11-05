@@ -1,0 +1,26 @@
+Revision
+The table below Stows Selected fields and data
+types in micro-Suft access. use it to answer the
+Ffg questions.
+Field
+Data types
+fullnane
+Text
+Matric No
+Num ber
+BOB.
+Date and time
+Fees.
+Number
+Address
+Text
+1)
+What is the appropriat Data-type for the ffy
+fields
+2.)
+If MS-Access is running, describe the proced-
+life to:
+i)
+create a table with fields above
+NY
+Set the primary Key as riat no

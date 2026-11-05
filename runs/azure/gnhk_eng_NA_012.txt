@@ -1,0 +1,20 @@
+android run
+compile
+time
+Jave bytecode. Dalvic. /ART
+-> classes. dex .
+configuration
+-> manifest. xml
+Source file registered compte
+->
+res
+pre compiled resources XMLIN
+-> Resources. avg 6
+by filu.s
+-> assets
+Su arm 3264 ×86 3/64
+-> Lib
+apk signning doc
+> meta- info
+Unity ot sharp
+Unity CH

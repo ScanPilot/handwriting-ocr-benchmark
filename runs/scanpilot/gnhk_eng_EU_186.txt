@@ -1,0 +1,8 @@
+DATE 2017-06-17
+Agency profile creation.
+↓
+✓ com profit name
+✓ paypal account paypal name.
+✓ company account | should be
+✓ bank account | same.
+ZAPI

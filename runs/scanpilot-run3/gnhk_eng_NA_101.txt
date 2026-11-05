@@ -1,0 +1,22 @@
+67
+JUN 25
+Multiway Tries (contd.)
+↳ implementation of Search(x), insert(x), delete(x) is
+  the same as for tries
+↳ run time : O(|x| ⋅ (time to find appropriate child))
+↳ each node has up to |Σ|+1 look for child at
+  references to children a node the the
+  ↳ store children as arr of size |Σ|+1 char of the string
+    @ each node that is being
+      ↳ O(1) time to find child processed.
+      ↳ for n nodes, we need O(|Σ|n) space time to find
+child dep on
+↳ store list of of children @ each node size of alphabet
+  ↳ O(|Σ|) time to find child (improve using MTF)
+  ↳ for n nodes, need O(n) space
+↳ store a dictionary @ each node each node only appears
+  ↳ keys in dictionary = child label once in a list
+  ↳ values in dict = child address (specifically the list
+stored by its parent)
+  ↳ O(log|Σ|) or better to find child
+  ↳ for n nodes, need O(n) space

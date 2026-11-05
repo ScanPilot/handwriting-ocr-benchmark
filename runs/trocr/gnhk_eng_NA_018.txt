@@ -1,0 +1,10 @@
+place .
+T
+price .
+product .
+Target .
+Audience -
+people .
+ly
+physical .
+precess .

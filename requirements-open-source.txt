@@ -1,0 +1,8 @@
+# EasyOCR and TrOCR runners (scripts/run_easyocr.py, scripts/run_trocr.py).
+# Published runs: Python 3.11, easyocr 1.7.2, torch 2.15.0, transformers 5.22.1.
+# PaddleOCR needs its own environment: pip install paddlepaddle==3.3.1 paddleocr==3.4.1 pillow
+pillow>=10
+numpy
+easyocr==1.7.2
+torch==2.15.0
+transformers==5.22.1

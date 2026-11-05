@@ -1,0 +1,15 @@
+android run
+classes. dex. Jave bytecode. compile Dalvic /ART
+time
+manifest. xmL configeration
+res
+Source file Registered comile
+time Cut
+Resources. arse pre compiled resources XMLIN
+assets
+by files
+Lib
+Su arm 51/64 8632/64 86 37/64
+meta-info
+apk Signning doc
+Unity C sharp Unity C#

@@ -1,0 +1,26 @@
+->classes. dex.
+compile
+android rum
+Jave bytecode. Dalvic /ART
+- manifest. XML. configuration
+time
+→
+res
+Source file Registered comple
+→ Resources. avs
+>> assets
+-> Lib
+←
+C
+meta-info
+Unity c& sharp
+1.2
+J. Ca
+pre compiled resources XML
+big filo.s.
+So arm 4 *867/64
+apk
+Unity CH
+Siguning
+doc
+Cu

@@ -1,0 +1,41 @@
+(CRC)
+DATE
+PAGE
+(CRC)- integrity checking
+- This is the data
+Cyclic Redundancy check (CRC)-
+mostly
+between the storage Device
+perform redundancy
+4 RAM ( Random Access memory).
+4. what would you type in at
+a command prompt
+to new the IP setting for the computer that
+7
+you are sitting at ?
+Ay Ipconfig / all
+Stol
+Q. What command would you type in at a
+Command prompt to view the IP address of
+at the remote computer 7 rap blow not
+① nbtstat - a Ø < Remote Computer (Name>"
+ping & < Remote Hast Name > ++ LA
+AP
+8081
+2
+Q. What is the
+w value for class B7
+(128·0·0·0) to (191.0.0.0).
+nevassib way glow blow look and bnemme tek
+fyricstiil in ntiquamun tog birt
+Q. What is the Net ID of an IP address of 18.9.25.3
+with subnet mask of 255.0.0.07
+of 18.0.0.0.
++
+what is CDDR( classless InterDomain Routing)]
+ory its a method for allocating IP adobetsing
+Routing IP pacates.
+by the help of CIAR it is become possible to coute
+many
+No. of Network addressed according to the
+requirment on every class of Ip.

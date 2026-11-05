@@ -1,0 +1,24 @@
+ristinexis
+Revision
+The table below Shows Selected fields and
+dat
+types in Micro-soft access. use it to and the
+fegquestions.
+Dede types
+Fiel
+fullname
+Text
+Matric No
+Number
+BOB.
+Date and time
+Fees.
+Number
+Text
+Address
+1) What is the appropriat Data-type for the ffy
+fields.
+2) If 18-Access is running, describe the proced-
+ure to:
+1) create a table with fields above.
+11 Set the primary key as rat no.

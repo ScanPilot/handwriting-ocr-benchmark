@@ -1,0 +1,9 @@
+Place
+Price
+Product
+Target
+Audience ->
+People
+1
+Physical
+Process

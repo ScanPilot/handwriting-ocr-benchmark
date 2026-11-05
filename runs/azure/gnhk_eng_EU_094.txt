@@ -1,0 +1,38 @@
+DATE
+PAGE
+Cyclic Redundancy check (CRC)- This is the dog
+integrity checking
+perform redundancy mostly between the storage no
+& RAM( Random Access memory).
+what would you type in at a commander
+to view the IP setting for the computer that
+you are sitting at?
+Ipconfig &/all.
+Q.
+what command would you type in at a
+command prompt to view the IP address of
+the remote computer? yo va
+luan nosty 8
+Ap
+(1)
+rbtstato- a $ { Remote computer Name>
+2) Ring & < Remote Host Name>
+Q.
+What is the
+wvalue for class B?
+2
+(128. 0. 0' 0 ) to (191. 0.0.0).
+whit new glow blow look and -bramme? tady
+Savinotrie a netigual quey medicus
+todo Aberto 207
+0. what is the Net ID of an IP address of 18. 9.25">
+with subnet mask
+=>18,000.
+Q.
+what is CIDR ( Classless InterDomain Routing)
+Ap
+ate a method for allocating IP addressing
+Routing If packatel.
+a. the help of CIDR it is become pelle to call
+many No. of Network addressed according to the
+requirement on every class of IP:

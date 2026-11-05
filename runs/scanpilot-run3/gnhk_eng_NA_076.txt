@@ -1,0 +1,8 @@
+macro rating x Weight 1
+1000 stocks "pool" { industry (country) rating x weight 2 } => final rating
+micro (individual) rating x weight 3
+sort by final rating => top 5 stocks of the day. to train
+buy @ 9:30. sell @ 3:55
+stop limit threshold ? (step 2).
+macro rating < momentum factor
+mean reversion factor

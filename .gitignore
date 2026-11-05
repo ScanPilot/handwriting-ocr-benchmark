@@ -1,0 +1,7 @@
+data/gnhk-raw/
+data/omni-raw/
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store

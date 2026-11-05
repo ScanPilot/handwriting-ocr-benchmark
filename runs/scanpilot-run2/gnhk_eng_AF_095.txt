@@ -1,0 +1,13 @@
+Course Outline
+Chapter One — Basic introduction
+Chapter Two — Data representation in Computer
+Chapter Three — Concept of Computer Hardware
+Chapter Four — Computer pheripherical unit
+Chapter Five — Computer Software
+Chapter Six — Computer port
+Chapter Seven — Data and information
+Chapter Eight — Procedures for Computer
+Preparation and Computing System
+Chapter Nine — Security and Safety of Computer
+Chapter Ten — Computer Network
+Chapter Eleven — The use of Internet

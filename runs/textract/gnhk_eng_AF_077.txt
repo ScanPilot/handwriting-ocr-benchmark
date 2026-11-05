@@ -1,0 +1,14 @@
+TYPES OF DRIVE INTERFACE
+x
+IDE 1 Integrated Drives Electronics.
+it has 40 pins Connectors
+2
+EIDE - Enhance Intergated Drive Electronics.
+Can still b use 2 Connect d HID
+3
+PATA - Parellel Advanced Technology Attachment.
+its used 2 Connect H.D.
+4
+SATA - Serial Advanced Technology Attachmed.
+$
+SCSI - Small Computer System Interface

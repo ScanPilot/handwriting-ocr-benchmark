@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "Handwriting OCR benchmark"
+version: "1.0.0"
+date-released: "2026-11-05"
+authors:
+  - name: "SUSTRAVIA GmbH (ScanPilot)"
+license: MIT
+repository-code: "https://github.com/ScanPilot/handwriting-ocr-benchmark"
+references:
+  - type: conference-paper
+    title: "GNHK: A Dataset for English Handwriting in the Wild"
+    authors:
+      - family-names: Lee
+        given-names: Alex W. C.
+      - family-names: Chung
+        given-names: Jonathan
+      - family-names: Lee
+        given-names: Marco
+    conference:
+      name: "ICDAR 2021"

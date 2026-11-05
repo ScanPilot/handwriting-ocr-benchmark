@@ -1,0 +1,32 @@
+67
+JUN 25
+Multiway Tries (contd.)
+implementation of Search(x), insert(x), delate(x) B
+the same as for tries
+ran time: 0 C/x/. (time to find appropriate child) )
+each node has up to 12/+1
+look for child at
+references to children
+a node the the
+char of the striy
+Store children as arr of size (I/H
+that " being
+@ each node
+procenal.
+time to find
+o(1) time to find child
+abild dep on
+size of rephabet
+for n rodas, we need O((2/n) space
+store list of of children @ each node
+0(121) time to find child (improve using MTF)
+for n vodes, need O(n) space
+store a dictionary @ each node Leach rode only appears
+once in a list
+keys M dictions = child label
+(specifically the list
+values in dict = child address
+stored by its parent)
+0
+Clug 121) or better to find child
+for, 5 no ods, need O(a) space

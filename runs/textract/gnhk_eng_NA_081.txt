@@ -1,0 +1,64 @@
+H
+(a)
+n!(X-4)n
+n=0
+the ratio tested is preferable
+Y: lim
+A I n:(x-y)
+= - - 1x-4/ 11-700 lim (n+1)! n! = 1x-41 1900 lim (n+1)
+DI for all X 4 . so the series diverges on (-10,4) and (4,
+KI for X=4 the series. converges when X=Y
+(b) the series converge absolutely when X=4
+(c) has no value that is converges conditionally
+(b)
+so (x-2)n
+RE1 n.sn
+r = lim
+n+x / (7-2)n/n.5n
+/
+"
+lim
+1x-21
+n
+/
+1X-21
+lim
+/
+n
+1X-2
+ntl
+11
+11
+n-700
+1
+ANY
+ntl
+w
+Y= 11-21 5 </ -3< X<1
+when X=3 = not (-1)n n converges
+the interval of converges is
+when X=7 14 I diverges the radius is R=5
+-35*67
+b) for (-3.7), the series converges absolutely
+(C) when X=3, it is anditional convergence
+Q2 (a) Σ Xu
+lim
+=
+lim
+n!
+Y=
+/
+x).
+=
+/r/
+him
+=0 n!
+(nti)!
+AM
+1xn/n!I
+n-><0
+(AHT)=0
+1
+r=0, for all real number X, the series converges for all X
+delign
+the "

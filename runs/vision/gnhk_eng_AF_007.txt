@@ -1,0 +1,31 @@
+A, B, F, G and It
+A
+Explain the necessity for acquiring good note
+note making techniques
+B
+list the methods of note taking.
+† identify good reading habits
+Gr
+Making
+8 note making
+Explain the different method of reading.
+H
+and
+use the different method of reading explained in G
+Write
+the
+Qa
+allerage
+Algorithm and draw the flowchart determining
+of 3
+Step 1: Start
+3 given numbers a, b, c.
+P
+& 2:
+Declare Variables a, b, c
+-3:
+Ave (a+b+c) /3
+4°
+Ave Display Ave
+5
+stop

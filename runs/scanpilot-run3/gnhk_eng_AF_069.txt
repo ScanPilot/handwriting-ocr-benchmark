@@ -1,0 +1,12 @@
+Revision
+The table below shows selected fields and data types in micro-soft access. use it to answer the ffg questions.
+Field Data types
+fullname Text
+Matric No Number
+DOB. Date and time
+Fees. Number
+Address Text
+1) What is the appropriat Data-type for the ffg fields.
+2) If MS-Access is running, describe the procedure to:
+i) create a table with fields above
+ii) set the primary key as mat no

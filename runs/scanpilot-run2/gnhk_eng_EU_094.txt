@@ -1,0 +1,25 @@
+DATE PAGE
+Cyclic Redundancy check (CRC) - This is the data
+integrity checking
+perform redundancy mostly between the storage Device
+& RAM (Random Access memory).
+Q. What would you type in at a command prompt
+to view the IP setting for the computer that
+you are sitting at ?
+Ans Ipconfig /all
+Q. What command would you type in at a
+command prompt to view the IP address of
+the remote computer ?
+Ans ① nbtstat -a <Remote Computer Name>
+② ping <Remote Host Name>
+Q. What is the W value for class B?
+Ans (128.0.0.0) to (191.0.0.0).
+Q. What is the NetID of an IP address of 18.9.25.3
+with subnet mask of 255.0.0.0?
+Ans ⇒ 18.0.0.0
+Q. What is CIDR (Classless InterDomain Routing)?
+Ans Its a method for allocating IP addressing &
+Routing IP packets.
+By the help of CIDR it is become possible to create
+many no. of network addresses according to the
+requirement on every class of IP.

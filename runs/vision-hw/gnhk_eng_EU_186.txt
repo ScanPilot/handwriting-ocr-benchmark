@@ -1,0 +1,16 @@
+DATE 17/06/2017.
+is
+Agency
+profile creation
+7
+Com
+company
+✓ bank
+✓ paypal account
+s
+account should be
+account.
+paypal name
+profit name
+same.
+ZAPI

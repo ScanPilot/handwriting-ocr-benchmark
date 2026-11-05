@@ -1,0 +1,33 @@
+67
+JUN 25
+duttiway Trices (ontl.)
+4) inplementation of search(x)insetlx)，dkte(x)s
+the same as for fries
+4ran trine:O(lxl(time to fil appopit cid))
+→ each node has apto 121+1
+(ook Bor child at
+neferenues to children
+a node the the
+char of th striy
+) store children as arr of site (πl+1
+thet a beiy
+C each node
+procunal
+time to find
+4 ocl) tine to find child
+ahil lep on
+size of ciphetont
+ for n nodces, iwe need O((z(n) space
+) store list of of children Ceach hode
+) o(lzl)tine to find child (inprove using atF)
+4 forn rodes, need O(n) spuce
+Ceach rode oulys appeas
+store a dictiorary @each rode
+once
+in a list
+4 keys m dictiorny = child label
+specifically the list
+4 valtes in dict = chiId addren
+stored by its parent)
+40(log |tl) or better fo fut child
+( for, u nods, need Ocn) spal

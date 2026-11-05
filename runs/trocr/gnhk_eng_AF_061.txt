@@ -1,0 +1,21 @@
+beans .
+0 .
+up pest .
+Tomato .
+0 0
+onions .
+0 .
+ricespice .
+fried .
+s .
+0
+0 0
+0 0
+0 0
+0 0
+0 .
+curry .
+0 0
+macaroni .
+ghents .
+0 0

@@ -1,0 +1,26 @@
+Contract Routing Form
+Route Date: 2005-04-29 Originator: Mike Phillips
+(Name, Title, Extension)
+Contract Number: AD05-892-587 Contract Amt.: 388869.0
+Contract Date(s): 2005-04-01 - 2005-09-31 Purchase Order No.
+Supplier Name: Coyne Beahm Shouse Inc.
+Supplier Contact Info: (name, complete, address, telephone number)
+Tom Barbitta
+6522 Bryan Blvd.
+Greensboro, NC 27409
+(336) 605-7255
+Department Name: Eclipse Brand
+Scope/Description: Addendum for 2005 Eclipse scope of work
+G/L Code: Program Budget Code/Line Item:
+PPS System Entry PPS Number
+Signature Date
+Reviewers:
+Mike Phillips 2005-05-03 (Mike Phillips) Originator
+Michael Madigan 2005-05-03 (Mike Madigan) Legal
+Legal Revisions Needed? Yes [ ] No [X]
+Pat Gillooly 2005-05-04 (Pat Gillooly-Finance) Reviewer
+Asit Goel 2005-05-04 (Asit Goel - Eclipse Brand) Reviewer
+Kay M. Adams 2005-05-05 (Kay Adams - Procurement) Reviewer
+Scott Rhodes 2005-05-05 (Scott Rhodes - Eclipse Brand) Reviewer
+Signature 2005-05-06 ( ) Contract Approver
+RJRT Form 4006 - Rev. 03/08/2005 1 of 3

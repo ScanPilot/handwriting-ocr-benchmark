@@ -1,0 +1,18 @@
+compile
+candroid rum
+-> classes. dex. Tave bytecode. Dalvic /ART
+- manifest. XML. configuration
+-> res
+→ Resources, arge
+>> assets
+-> Lib
+→ meta-info
+time
+•Source file Registered comple
+J. Ca
+pre compiled resources XML
+big filo.s.
+Su arms24 *8637/64
+apk
+Unity C Sharp Unity CH "gunig
+doc

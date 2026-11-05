@@ -1,0 +1,35 @@
+DATE
+PAGE
+cyclic Redundancy check (CRC)- - This integrity is the checking data
+perform redundancy mostly between the storage Device
+& RAM(Random Access onemony)
+Q. what would you type in at a command prompter
+to new the IP setting for the computer that
+you are sitting at 7
+stole
+Its
+Am
+Ipconfig
+Ixw
+Q. what command would you type in at a
+command prompt to view the IP address of
+INt
+the remote computer INW may bluon month
+10
+/
+nbtstat 0-a0 L Remote Computer Name>
+2
+ping $ < Remote Host Name >
+britings
+Q. What is the w value for class B7
+of (128.0.0.0) to (191.0.0.0).
+nevarrib New alen bluow look aml terh
+Springsie is in ruse Indirum troq Ninls 207
+Q. what with subnet the Net ID of an IP address of 18.9.25.3
+of
+18.0.0.0. mark of 255.0.0.0?
+AJ Routing a method IP packates. for allocating IP addressing 4
+Q. Its what is CIDR ( classless Intertomain JA9 Routing) xcmg
+By the help of CIDR it is become create
+requirment many No. of Network addresses according possible to the to
+on every class of IP.

@@ -1,0 +1,63 @@
+وا
+DATE
+PAGE
+This is the data
+integrity checking
+Cyclic Redundancy check (CRC) -
+perform redundancy mostly between the storage Device
+4 RAM ( Random Access memory).
+8.
+ду
+what would
+to
+you type in at
+a
+command prompt
+new the IP setting for the computer that
+sitting at 7
+you are
+Ipconfig // all
+Stol
+Q.
+what
+command would you type in at
+a
+Command
+prompt to view
+the
+IP address of
+hewan e tar
+out the remote computer 7
+др
+on ap
+mbtstat o - a Ø < Remote Computer Name>
+ping Ø < Remote Host Name >
+Q.
+What is
+the
+w value for class B7
+81
+(128·0·0·0) to (191.0.0.0).
+nevassib way glow blow look and bnemme tek
+fyrirstsil in ntiquantong dis
+Q.
+What is the
+Net ID of an IP address
+with subnet mark
+of = 18.0.0.0.
+AP Its
+of 255.0.0.07
+of 18
+18.9.253
+Routing)
+what is CIDR ( Classless InterDomain
+a method for allocating IP addressing
+Routing IP packates.
+4
+become possible to colate
+By the help of CIDR it is
+many No. of Netwrok addressed according
+requirment on every class
+of
+IP
+to the

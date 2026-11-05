@@ -1,0 +1,25 @@
+Revision .
+mistments .
+The table below shows Selected fields and data
+types in micro-soft access use it to ensure the
+figquestions .
+I Field .
+to be
+( Datetyzes .
+full name .
+1961 62
+Text .
+( matricino ( Number .
+Bob .
+( Date and time (
+fees .
+0 0
+( number !
+Address .
+s " Text .
+What is the appropriate Data-type for the Fig.
+If fields .
+2 ) If no-Access is running , describe the proceed-
+fure tos .
+in create a table with fields . above
+" My , set the primary key as not no

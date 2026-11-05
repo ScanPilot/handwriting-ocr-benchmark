@@ -1,0 +1,12 @@
+21st June 2018 Revision
+The table below shows selected fields and data types in Microsoft access. Use it to answer the ff g questions.
+Field Data types
+fullname Text
+matric No Number
+DOB Date and time
+Fees Number
+Address Text
+1) What is the appropriat Data-type for the ffy fields.
+2) If MS-Access is running, describe the procedure to:
+I) Create a table with fields above
+II) Set the primary key as mat no

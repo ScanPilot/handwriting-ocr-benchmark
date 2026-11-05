@@ -1,0 +1,72 @@
+Number and Percent of students with Positive Clinical Findings by
+Sex (1972)
+Physical Examinations were given to a total of 105 males and 100 Females
+Male
+Female
+Physical Finding
+Number
+Percent
+Number
+Percent
+LIPS
+Pallor of mucosa
+0
+0
+2
+2.00
+GUMS
+3
+2.86
+2
+2.00
+Marginal redness or swelling
+FACE AND NECK
+Thyroid enlarged: GO
+2.
+1.90
+8
+8.00
+GI
+7
+6.67
+7
+7.00
+GII
+I
+0.95
+4
+4.00
+TONGUE
+Filiform papillary atrophy
+7
+6.67
+3
+3.00
+Fungiform papillary hyper drophy-
+1
+0.95
+0
+O
+Fissures
+0
+0
+1
+1.00
+Geographic
+I
+0.95
+0
+0
+TEETH
+Cavities in Four or more teeth.
+5
+4.76
+3
+3.00
+SKIN
+Follicular hyperkeratosis
+0
+0
+2
+2.00
+Source:https://www.industrydocuments.ucsf.edu/docs/ppib0228

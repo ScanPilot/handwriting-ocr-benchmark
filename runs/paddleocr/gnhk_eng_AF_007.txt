@@ -1,0 +1,20 @@
+AB,F,6r and H
+A
+rote making tachniques
+8
+B
+list the mo t of note tin otemaking
+f dentify god dingt
+Gr
+Exeplain the difforent method of reading
+H
+use the dfferant mthod of reading expleied in G
+Write aorthm  draw the foat deing
+the alesge of 3 given nubors a,b,C
+Ste p I: Stat
+$v 2: Dedlare Vaviables a, b，C
+-3：Av0(a+b+c)/3
+x4
+A Display Ave
+5
+stop

@@ -1,0 +1,15 @@
+HMM Training
+① Initialization ( IS₁, IS₂, ..., ISₙ )
+A. Samples (5~12) → divide into N initial states (evenly)
+B. Calculate Avg length of each state ( l₀₁, l₀₂, ..., l₀ₙ )
+C. Calculate initial transition prob
+P₀ᵢ = 1 / l₀ᵢ ( p₀₁, p₀₂, ..., p₀ₙ )
+D. Calculate μ, σ² for each state ( μ₀₁, ..., μ₀ₙ / σ₀₁, ..., σ₀ₙ )
+② Loops ( 1, 2, ..., t )
+A. for each point x (near boundary), compare (x-μₖ)/σₖ vs (x-μₖ₊₁)/σₖ₊₁
+decide if to move x to another state
+B. Calculate Avg length of each state ( lt₁, lt₂, ..., ltₙ )
+C. Calculate transition prob ( pt₁, pt₂, ..., ptₙ )
+D. Calculate μ, σ for each state ( μt₁, ..., μtₙ / σt₁, ..., σtₙ )
+if boundaries don't change => converge !
+* Note that each state must have ≥ 1 point !

@@ -1,0 +1,99 @@
+TABLE IV
+
+id
+
+ys
+
+K
+
+RECOMMENDED DIETARY ALLOWANCES ] CALORIES
+
+wfgu8)
+
+Woman (123 lb., 56 kg.)
+
+Calories
+
+Sedentary
+
+2000
+
+Moderately Active
+
+2,00
+
+Very Active
+
+3000
+
+Pregnancy (Latter Half)
+
+2,00
+
+Lactation
+
+3000
+
+(1953)
+
+Weight
+
+Height
+
+(years)
+
+(kg) (Ib)
+
+(em) (in)
+
+Women
+
+25
+
+55
+
+a2k
+
+157
+
+62
+
+2300
+
+5
+
+55
+
+121
+
+17
+
+62
+
+200
+
+121
+
+62
+
+65
+
+55
+
+157
+
+foo
+
+Yurow CAL
+
+Pregnant (3rd Trimester)
+
+A090
+
+Lactating (850 ml. daily)
+
+AyD nin a
+
+3300
+
+Source: https://www.industrydocuments.ucsf.edu/docs/gfpg0227

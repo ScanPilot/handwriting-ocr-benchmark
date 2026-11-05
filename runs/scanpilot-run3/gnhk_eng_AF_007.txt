@@ -1,0 +1,16 @@
+A, B, F, G and H
+A
+Explain the necessity for acquiring good note taking and note making techniques.
+B
+List the methods of note taking & note making
+f Identify good reading habits
+G
+Explain the different method of reading
+H
+Use the different method of reading explained in G
+Write an Algorithm and draw the flowchart determining the average of 3 given numbers a, b, c.
+Step 1: Start
+Step 2: Declare Variables a, b, c
+Step 3: Ave (a+b+c)/3
+Step 4: display Ave
+Step 5: stop

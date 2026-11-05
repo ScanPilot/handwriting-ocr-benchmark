@@ -1,0 +1,29 @@
+HMM Training
+1
+Initialization
+(IS,,152, ..; ISN)
+A. Samples (5~12)
+divide into N intitial states
+(evenly)
+B. Calculate Avg length of each state
+( loi. b₂, lon)
+c. Calculate initial transition prob
+Poi 1/20
+'por, Po₂, PON)
+d. Calculate u.o" for each State
+(Mol, Mon /601, (IN)
+2
+Loops (1,2, t)
+X
+A. for each point ( near bondary), compare
+X-MK
+X-MK+1
+vs
+6K
+TK+1
+decide if to move X to another state
+B. Calmlate Arglaugth of each state ( lt,, lt2, ltN)
+C. Calculate transition prob Pt, Pt2; P+N)
+D. Calculate M. G for each state Cut.,
+if bondaries don't change => converge !
+* Note that each state must have > 1 point!

@@ -1,0 +1,3 @@
+[ ] Locate documents you use repeatedly
+[ ] Turn them into template forms and save them in a Central repository or "Form Library"
+[ ] Establish a simple process to input client / contact information

@@ -1,0 +1,33 @@
+67 .
+Jun 25
+dustaway prices ( control . )
+to implementation of search (X ) , inserttax ) , dutetelx ) &
+the same as for tries .
+is ran time : OC ( ( time to find appropriate child ) )
+4 each mode has up to 1.2/1
+look for child at
+a more the
+references to children .
+char of the story
+W Stone children as arr of size ( E (H.
+that is being
+procumed .
+C each node .
+time to find
+4 OON tone to find child
+estailed collapse .
+size of elephant
+is for in nuclear , two need O (FE ( n ) space
+In store list of children ( each node
+is 0 (1/time to find child ( improve using MMP )
+4 for in votes , need only space .
+French node only appears
+4 store a dictionary & each node
+once .
+in a list
+4 keeps in dictionary : child label
+Specifically the list
+4 values in diet : child address
+" storied by its parent )
+W. O ( Log ( 2 ) or better to find child
+is for , 'n' nods , need ( Only space .

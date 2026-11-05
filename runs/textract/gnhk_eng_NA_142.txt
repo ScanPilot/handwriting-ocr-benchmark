@@ -1,0 +1,46 @@
+Problem /
+a. Accounting income before taxes
+1,000,000
+Permanent differences:
+Inferest and ponalties on taxes 4,200
+Dividends from taxable Canadian corporations (53,000)
+Non-deductible portion of capital gain (7,500)
+Accounting income subject to tax
+943,700
+Total income tax expense
+AISTx60%= 377,480
+Timing differences:
+Depreciation
+172,500
+CCA
+(225,000)
+Warranty expense
+85,000
+Gain on sale of depreciable asset (70,000)
+Taxable capital gain
+15,000
+Taxable income
+921,200
+Current in come tax expense
+TIX40% = 368,480
+Deterred income tax expense= 377,480 - 9,000
+Balance at year end : 98,000 +9,000 = 107,000
+b. Income tax expense. - current
+368,480
+Income taxes parable
+368,480
+Deferred in come tax expense
+9,000
+Deferred income tax liability
+9,000
+Problem 2
+a. Total income tax expense = 349,000 X 35% = 122,150
+Current income tax expense = 299,000 x35%=109,650 =
+Deferred taxes = 122,150 - 104,630 104,650 = 17,500
+Current income tax expense
+Income taxes payable
+100/650
+Deferred income tax expense
+17,500
+Deferred tax (SFP) -1
+17,500

@@ -1,0 +1,24 @@
+Revisión
+The table below Shows Selected fields and data
+types in microsoft access. Use it to answer the
+fegquestions.
+Field
+Datatypes
+fullname
+Text
+MatriciNo
+Number
+BOB
+Date and time
+Fees.
+Number
+Address
+Text
+1)
+What is the appropriate Data type for the ffy
+fields.
+2)
+IfM8-Access is running, describe the proced-
+nie tos
+create a table with fields above
+Set the primary Key as nat no

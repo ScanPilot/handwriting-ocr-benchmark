@@ -1,0 +1,18 @@
+S
+1000 stocks "pool"
+macro ratip
+× Weight 1
+industry. rating x weight 2
+(Country)
+=> final
+rating
+micro
+individual)
+rating & weight 3)
+sort by find rating top I stocks of the day.
+buy @ 9:30. sell @ 3:55
+stop limit threshold ? <step 2).
+momentum factor
+macro raty <
+mean reversion factor
+to train

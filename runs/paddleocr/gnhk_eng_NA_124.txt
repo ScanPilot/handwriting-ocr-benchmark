@@ -1,0 +1,24 @@
+HMM Trainng
+① Initidlizetin
+(IS{1，IS{2}， ISN)
+A. Sanples (5~2)→ divide into N intitiel states
+(evenly)
+B. Calcalate Arg length of each state
+(la1，l{2}，…lon)
+C. Calcalate initial tranitb prob
+$P_{}=$frac{}{}$
+(PO1,P02，…PON)
+d. Calcalate μ,o for each state
+(M1，n/a1， -,GN)
+Loops ( 1, 2,…t)
+x-μk
+x-μk+1
+vs
+G1c
+SK1$
+deide if to move × to another state
+B. Calanlate Aglepth of each stat (lt1,lt2…ltn)
+C. calcalcke transitbn porob (pt,pt2…ptN)
+D. calalate μ.o for each state (μt.-μ/6t,;-,O+N)
+if bondaries dont chage = converge!
+Note that each state must have ≥I poiut!

@@ -1,0 +1,19 @@
+Straight-Line -> closed in Retained Earnings (I/S)
+Depreciated Expense 8000
+Accum. Depreciation 8000
+-> Balance Sheet - stay
+Accum. Dep.
+8000 Year 1
+8000 Year 2
+8000 Year 3
+: :
+SCF - statement of cash flow
+Operating
+Investing - cash transactions related to
+long-term assets - PPE services uses
+lease an Asset - right to use the asset
+/ operating lease -> Lease Expense Cash
+leases
+\ capital lease -> Asset lease obligation
+Accumulated Depreciation
+Everyone leases lmao

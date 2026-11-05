@@ -1,0 +1,45 @@
+67
+JUN 25
+Multiway Trices (contd.)
+is
+↳ implementation of search (x), insert(x), delete(x) s
+the same as for frices
+↳ run time: 0 (//• (time to find appropriate child))
+↳ each node has up to 12/+1
+4
+references to children
+-) Stone children as arr of size 12/+1
+@ each no de
+4
+↳ OCU) time to find child
+took for child at
+a
+node the the
+char of the string
+that is being
+procuncl.
+time to find
+child p
+size of cephebut
+↳ for in rodas, we need O(/2/w) space
+4
+↳ store list of of children @ each node
+on
+↳ O(121) time to find child (improve using MTF)
+م)
+4 for n rodes, need
+O(u) space
+4 store a dictionary @ each node Leach rode only appears
+4 keys in dictions.
+4 values in dict =
+= child label
+once
+child address
+40 (log | 2/) or better to fiul child
+↳ for.
+i nods, need O(n) space
+in
+a
+list
+Especifically the list
+stored by its parent,

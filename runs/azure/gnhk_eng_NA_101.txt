@@ -1,0 +1,32 @@
+67
+JUN 25
+Multiway Trices (contl.)
+4) implementation of Search (x), inser(x), detete (x) is
+the same as for trices
+4 ran time : 0 (1×1. (time to final appropriate child))
+4) each node has up to 12/+1
+look for child at
+a node the the
+references to children
+char of the string
+-) Store children as arr of size /I/H
+that is being
+procancel.
+@ each node
+time to find
+(> O(1) time to find child
+child cep on
+size of cephebut
+4) for in nodas, we need OCI(n) space
+1) store list of of children @ each node
+() O (III) time to find child (improve using MTF)
+4 for n vodes, need O(n) space
+4 Store a dictionary @ each node beach rode only appears
+4) keys in dictionary = child label
+Especifically the list
+4) values in dict= child address
+stored by its parent)
+4) O (log 2 ) or better to find child
+for, i wody, need O(n) space
+once
+in a list

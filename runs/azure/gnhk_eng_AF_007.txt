@@ -1,0 +1,23 @@
+A, B, F, G and It
+A
+Explain the necessity for acquiring good note taking and
+nota making techniques
+B
+list the methods of note taking & note making
+f
+Identify good reading habits
+G
+Explain the different method of reading
+H
+use the different method of reading explained in G
+@ Write an Algorithm and draw the flowchart determining
+the average of 3 viver numbers a, b,c.
+Ste p 1 : Start
+Vv 2:
+Declare Variables a, b, c
+V
+Ave I (a+ b+c)/3
+4:
+Av IDisplay Ave
+1
+stop

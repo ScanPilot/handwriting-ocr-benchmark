@@ -1,0 +1,25 @@
+Revisin
+28tπ8
+The table bela Shass Seltel fields ao d
+types in nirro sift accee e it to an be
+tegqnestins.
+Fiell
+Datetypes
+
+fullnsre
+Text
+−
+ratric No Nues ber
+BOB.
+Date and tine
+Fees.
+Nusber
+-
+Address
+Text
+1) Wtat is the aproprict Data-type for the 
+frelds.
+2) Ifn8-Access isruniny,describe tre pred
+wre tos
+D geate a table with fields abre
+) set the prinary Key is iatno
