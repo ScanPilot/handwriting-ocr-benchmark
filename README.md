@@ -1,5 +1,7 @@
 # Handwriting OCR benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24002849.svg)](https://doi.org/10.5281/zenodo.24002849)
+
 **Results, charts and findings: [Handwriting OCR benchmark on scanpilot.ai](https://www.scanpilot.ai/research/handwriting-ocr-benchmark/)**
 
 How well do free OCR tools, cloud OCR services and AI models read handwriting? We ran eight
@@ -188,4 +190,5 @@ annotations, if you want to check that step as well.
 
 ## Cite
 
-See [CITATION.cff](CITATION.cff). Questions, reruns, removal requests: hello@sustravia.com.
+DOI (all versions): [10.5281/zenodo.24002849](https://doi.org/10.5281/zenodo.24002849). Version 1.0.0:
+[10.5281/zenodo.24002850](https://doi.org/10.5281/zenodo.24002850). See [CITATION.cff](CITATION.cff). Questions, reruns, removal requests: hello@sustravia.com.

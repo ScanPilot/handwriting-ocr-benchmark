@@ -9,6 +9,14 @@ authors:
     affiliation: "SUSTRAVIA GmbH (ScanPilot)"
   - name: "SUSTRAVIA GmbH (ScanPilot)"
 license: MIT
+doi: "10.5281/zenodo.24002849"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24002849"
+    description: "All versions (always resolves to the latest)"
+  - type: doi
+    value: "10.5281/zenodo.24002850"
+    description: "Version 1.0.0"
 repository-code: "https://github.com/ScanPilot/handwriting-ocr-benchmark"
 references:
   - type: conference-paper
