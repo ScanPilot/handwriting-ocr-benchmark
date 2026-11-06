@@ -114,6 +114,11 @@ ranged 90.7 to 91.1%).
   Japanese or Korean characters. They count as wrong words, as they would for a user.
 - **Services change.** These are the results on the dates above. We will rerun when the
   services or models update and log every change in [CHANGELOG.md](CHANGELOG.md).
+- **The pages are public, so any model may have seen them.** GNHK has been online since 2021
+  and the OmniAI set since 2025. Any system trained on web data, including ScanPilot's model, the
+  cloud services and TrOCR, may have seen these images or their transcriptions. We can't rule that
+  out from the outside. The check we plan is a fresh set of unseen handwritten pages, scored the
+  same way; if a system drops much more there than the others, that points to memorisation.
 - **One AI model.** ScanPilot is the only AI system in this version. General AI models on their
   own (such as ChatGPT, Claude or open vision-language models) and phone apps (Google Lens,
   Microsoft OneNote, Adobe Scan) were not tested, so this repo says nothing about them.
