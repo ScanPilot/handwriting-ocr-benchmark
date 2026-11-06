@@ -4,6 +4,9 @@ title: "Handwriting OCR benchmark"
 version: "1.0.0"
 date-released: "2026-11-05"
 authors:
+  - family-names: "Ceci"
+    given-names: "Luigi Paolo"
+    affiliation: "SUSTRAVIA GmbH (ScanPilot)"
   - name: "SUSTRAVIA GmbH (ScanPilot)"
 license: MIT
 repository-code: "https://github.com/ScanPilot/handwriting-ocr-benchmark"
