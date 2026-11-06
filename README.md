@@ -1,5 +1,7 @@
 # Handwriting OCR benchmark
 
+**Results, charts and findings: [Handwriting OCR benchmark on scanpilot.ai](https://www.scanpilot.ai/research/handwriting-ocr-benchmark/)**
+
 How well do free OCR tools, cloud OCR services and AI models read handwriting? We ran eight
 systems on the same 183 public pages (172 phone photos of handwritten notes and 11 scanned forms with handwritten
 fill-ins) and scored every page the same way. This repo holds everything needed to check or
@@ -47,7 +49,7 @@ Word F1: the balance of finding the words on the page (recall) and not writing w
 
 | System | What we called | Settings | Date run |
 |---|---|---|---|
-| ScanPilot | ScanPilot's converter (layout mode), the same code path as the free demo on scanpilot.ai; backend commit d37fda7 | Page sent as a one-page PDF (150 dpi); the returned grid flattened row by row | 2026-11-03, 3 runs |
+| ScanPilot | ScanPilot's converter (layout mode), the same code path as the free demo on [scanpilot.ai](https://www.scanpilot.ai/); backend commit d37fda7 | Page sent as a one-page PDF (150 dpi); the returned grid flattened row by row | 2026-11-03, 3 runs |
 | Azure Document Intelligence | `prebuilt-read`, API 2024-11-30 (v4.0 GA), Standard S0, region Germany West Central | Defaults (Read has no handwriting or language setting) | 2026-11-05, 1 run |
 | Google Cloud Vision | `images:annotate` with `DOCUMENT_TEXT_DETECTION` | `languageHints: ["en-t-i0-handwrit"]`, Google's handwriting hint (without it: 85.0% all pages) | 2026-11-03, 1 run |
 | Amazon Textract | `DetectDocumentText`, Region eu-central-1 | Defaults (no handwriting setting) | 2026-11-03, 1 run |
